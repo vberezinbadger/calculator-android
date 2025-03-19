@@ -63,5 +63,5 @@ calculator/
 ├── main.py           # Main application code
 ├── buildozer.spec    # Build configuration
 ├── requirements.txt  # Python dependencies
-└── README.md        # Documentation
+└── README.md         # Documentation
 ```
